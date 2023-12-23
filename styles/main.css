@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(36, 158, 124);
+}
+.footer-bg {
+    background: #e2ed9c; /* Цвет фона */
+    text-align: center;
+   }
+header {
+    display: block; /* Для старых браузеров */
+    height: 40px; /* Высота шапки */
+    background: #e2ed9c; /* Цвет фона */
+    text-align: center;
+}
